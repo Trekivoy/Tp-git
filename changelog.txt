@@ -1,0 +1,5 @@
+02b2ff9 display copyright
+1617fba Add file header
+655fad2 rien
+48f6911 Add build time
+167d6d5 Initial commit
